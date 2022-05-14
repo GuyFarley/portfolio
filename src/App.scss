@@ -15,6 +15,13 @@ html {
 	justify-content: center;
 }
 
+.col-md-12 img {
+	margin-bottom: 30px;
+	-webkit-box-shadow: 0 4px 6px rgba(0, 0, 0, .3);
+	-moz-box-shadow: 0 4px 6px rgba(0, 0, 0, .3);
+	box-shadow: 0 4px 6px rgba(0, 0, 0, .3);
+}
+
 .title-container {
 	height: 50px;
 }
@@ -54,10 +61,36 @@ header .nav {
 }
 
 .github-corner:hover .octo-arm {
-	animation:octocat-wave 560ms ease-in-out
+	animation: octocat-wave 560ms ease-in-out
 }
 
-@keyframes octocat-wave {0%,100%{transform:rotate(0)}20%,60%{transform:rotate(-25deg)}40%,80%{transform:rotate(10deg)}}@media (max-width:500px){.github-corner:hover .octo-arm{animation:none}.github-corner .octo-arm{animation:octocat-wave 560ms ease-in-out}}
+@keyframes octocat-wave {
+
+	0%,
+	100% {
+		transform: rotate(0)
+	}
+
+	20%,
+	60% {
+		transform: rotate(-25deg)
+	}
+
+	40%,
+	80% {
+		transform: rotate(10deg)
+	}
+}
+
+@media (max-width:500px) {
+	.github-corner:hover .octo-arm {
+		animation: none
+	}
+
+	.github-corner .octo-arm {
+		animation: octocat-wave 560ms ease-in-out
+	}
+}
 
 .language-icon {
 	font-size: 50px;
@@ -383,6 +416,7 @@ header h1 {
 	.portfolio .closeButtonResponsive {
 		display: block;
 	}
+
 	.portfolio .portfolio-item {
 		margin-bottom: 30px;
 	}
