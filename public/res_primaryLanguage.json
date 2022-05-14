@@ -13,7 +13,7 @@
     {
       "title": "BusMall",
       "startDate": "2022",
-      "description": "This project was a part of my 201 coursework, and taught me several concepts, including: Data persistence through local storage, object constructor functions, event listeners and handlers, and using Chart to display data graphically. The app allows a user to choose their favorite of three different product images by clicking the image, and re-renders three new images for 25 rounds. Once voting is complete, the cumulative data is rendered to the screen as a Chart.",
+      "description": "",
       "images": [
         "images/portfolio/bus_mall_screenshot.jpg"
       ],
@@ -36,7 +36,7 @@
     {
       "title": "LQR: A Cocktail App",
       "startDate": "2022",
-      "description": "For my final 201 project, I worked with a team to develop an app that would allow the user to input criteria into a form and then return back to them a cocktail recipe that fit that criteria. The code uses a constructor function to create the recipe card objects, and a series of switch statements to determine the matching object. Each selected recipe is held in local storage and displayed in the My Cocktails page for the user.",
+      "description": "",
       "images": [
         "images/portfolio/lqr_screenshot.jpg"
       ],
@@ -59,7 +59,7 @@
     {
       "title": "Salmon Cookies",
       "startDate": "2022",
-      "description": "This site was created for an assignment early on in Code Fellows, and was pivotal in solidifying several concepts for me, including: Constructor functions, the prototype chain, and DOM manipulation. The site allows a user to input data for a new location into a form. The code then re-calculates the sales numbers and re-renders the table with the new data included.",
+      "description": "",
       "images": [
         "images/portfolio/salmon_cookies.jpg"
       ],
