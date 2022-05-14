@@ -11,7 +11,7 @@
         "class": "fab fa-github"
       },
       {
-        "name": "instagram",
+        "name": "linkedin",
         "url": "https://www.linkedin.com/in/guyefarley/",
         "class": "fab fa-linkedin"
       }
@@ -21,14 +21,14 @@
   "skills": {
     "icons": [
       {
-        "name": "HTML 5",
-        "class": "devicon-html5-plain",
-        "level": "95"
+        "name": "React",
+        "class": "devicon-react-plain",
+        "level": "85"
       },
       {
-        "name": "CSS 3",
-        "class": "devicon-css3-plain",
-        "level": "95"
+        "name": "Node JS",
+        "class": "devicon-nodejs-plain",
+        "level": "85"
       },
       {
         "name": "JavaScript",
@@ -39,6 +39,16 @@
         "name": "Bootstrap",
         "class": "devicon-bootstrap-plain",
         "level": "85"
+      },
+      {
+        "name": "HTML 5",
+        "class": "devicon-html5-plain",
+        "level": "95"
+      },
+      {
+        "name": "CSS 3",
+        "class": "devicon-css3-plain",
+        "level": "95"
       }
     ]
   }

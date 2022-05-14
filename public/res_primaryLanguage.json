@@ -82,37 +82,100 @@
   ],
   "experience": [
     {
-      "company": "DefOpenSource",
-      "title": "Front-End Developer",
-      "years": "10.2019 - present",
+      "company": "Code Fellows",
+      "title": "Student",
+      "years": "03.2022 - present",
       "mainTech": [
-        "Angular 8/9/10"
+        "Full-stack JavaScript"
       ],
       "technologies": [
-        "REST API",
-        "RxJS",
-        "JavaScript",
-        "Bootstrap",
-        "MDBootstrap",
-        "EF Core",
-        ".NET Core",
-        "SignalR",
-        "Angular Material"
+        "Node.js",
+        "MongoDB",
+        "React",
+        "Node.js",
+        "Express.JS"
       ]
     },
     {
-      "company": "Serros Solutions",
-      "title": "Intern",
-      "years": "01.2018 - 09.2019",
+      "company": "HH Global",
+      "title": "Account Manager",
+      "years": "04.2021 - 03.2022",
       "mainTech": [
-        "Angular 7/8"
+        "Account Management"
       ],
       "technologies": [
-        "RxJS",
-        "Django",
-        "PHP",
-        "JavaScript",
-        "DHTMLX Gantt"
+        "Team Leadership",
+        "Project Management",
+        "Marketing Execution",
+        "Print Production",
+        "Fabrication"
+      ]
+    },
+    {
+      "company": "HH Global",
+      "title": "Sr. Project Manager",
+      "years": "07.2019 - 04.2021",
+      "mainTech": [
+        "Project Management"
+      ],
+      "technologies": [
+        "Marketing Execution",
+        "Workfront",
+        "Print Production",
+        "Installation",
+        "Fabrication"
+      ]
+    },
+    {
+      "company": "HH Global",
+      "title": "Project Manager",
+      "years": "06.2017 - 07.2019",
+      "mainTech": [
+        "Project Management"
+      ],
+      "technologies": [
+        "Marketing Execution",
+        "Workfront",
+        "Print Production",
+        "Installation",
+        "Fabrication"
+      ]
+    },
+    {
+      "company": "Premier Press",
+      "title": "Project Manager",
+      "years": "10.2015 - 05.2017",
+      "mainTech": [
+        "Project Management"
+      ],
+      "technologies": [
+        "Print Production",
+        "EFI Monarch",
+        "Fabrication"
+      ]
+    },
+    {
+      "company": "Daymon Worldwide",
+      "title": "Project Manager",
+      "years": "04.2014 - 06.2015",
+      "mainTech": [
+        "Project Management"
+      ],
+      "technologies": [
+        "Graphic Design",
+        "Schawk BLUE!"
+      ]
+    },
+    {
+      "company": "Daymon Worldwide",
+      "title": "Packaging Coordinator",
+      "years": "07.2012 - 05.2014",
+      "mainTech": [
+        "Project Management"
+      ],
+      "technologies": [
+        "Graphic Design",
+        "Schawk BLUE!"
       ]
     }
   ]
